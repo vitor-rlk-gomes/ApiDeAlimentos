@@ -1,0 +1,216 @@
+{
+  "alimentos": [
+    {
+      "nome": "peito de frango",
+      "carboidrato": "0",
+      "proteina": "0,31",
+      "gordura": "0,036",
+      "kcal": "1,65"
+    },
+    {
+      "nome": "carne bovina magra",
+      "carboidrato": "0",
+      "proteina": "0,26",
+      "gordura": "0,10",
+      "kcal": "2,17"
+    },
+    {
+      "nome": "tilapia",
+      "carboidrato": "0",
+      "proteina": "0,26",
+      "gordura": "0,02",
+      "kcal": "1,28"
+    },
+    {
+      "nome": "atum",
+      "carboidrato": "0",
+      "proteina": "0,29",
+      "gordura": "0,01",
+      "kcal": "1,32"
+    },
+    {
+      "nome": "ovo",
+      "carboidrato": "0,011",
+      "proteina": "0,13",
+      "gordura": "0,106",
+      "kcal": "1,55"
+    },
+    {
+      "nome": "whey protein",
+      "carboidrato": "0,08",
+      "proteina": "0,80",
+      "gordura": "0,05",
+      "kcal": "4,00"
+    },
+    {
+      "nome": "iogurte grego natural",
+      "carboidrato": "0,036",
+      "proteina": "0,10",
+      "gordura": "0,004",
+      "kcal": "0,59"
+    },
+    {
+      "nome": "queijo cottage",
+      "carboidrato": "0,034",
+      "proteina": "0,11",
+      "gordura": "0,043",
+      "kcal": "0,98"
+    },
+    {
+      "nome": "peito de peru",
+      "carboidrato": "0",
+      "proteina": "0,29",
+      "gordura": "0,01",
+      "kcal": "1,35"
+    },
+    {
+      "nome": "sardinha",
+      "carboidrato": "0",
+      "proteina": "0,25",
+      "gordura": "0,11",
+      "kcal": "2,08"
+    },
+
+    {
+      "nome": "arroz branco",
+      "carboidrato": "0,28",
+      "proteina": "0,027",
+      "gordura": "0,003",
+      "kcal": "1,30"
+    },
+    {
+      "nome": "arroz integral",
+      "carboidrato": "0,23",
+      "proteina": "0,026",
+      "gordura": "0,01",
+      "kcal": "1,11"
+    },
+    {
+      "nome": "batata inglesa",
+      "carboidrato": "0,17",
+      "proteina": "0,02",
+      "gordura": "0,001",
+      "kcal": "0,77"
+    },
+    {
+      "nome": "batata doce",
+      "carboidrato": "0,20",
+      "proteina": "0,016",
+      "gordura": "0,001",
+      "kcal": "0,86"
+    },
+    {
+      "nome": "macarrao",
+      "carboidrato": "0,25",
+      "proteina": "0,05",
+      "gordura": "0,011",
+      "kcal": "1,31"
+    },
+    {
+      "nome": "aveia",
+      "carboidrato": "0,66",
+      "proteina": "0,17",
+      "gordura": "0,069",
+      "kcal": "3,89"
+    },
+    {
+      "nome": "pao frances",
+      "carboidrato": "0,58",
+      "proteina": "0,08",
+      "gordura": "0,035",
+      "kcal": "3,00"
+    },
+    {
+      "nome": "banana",
+      "carboidrato": "0,23",
+      "proteina": "0,011",
+      "gordura": "0,003",
+      "kcal": "0,96"
+    },
+    {
+      "nome": "mandioca",
+      "carboidrato": "0,38",
+      "proteina": "0,014",
+      "gordura": "0,003",
+      "kcal": "1,60"
+    },
+    {
+      "nome": "milho",
+      "carboidrato": "0,19",
+      "proteina": "0,032",
+      "gordura": "0,015",
+      "kcal": "0,96"
+    },
+
+    {
+      "nome": "abacate",
+      "carboidrato": "0,09",
+      "proteina": "0,02",
+      "gordura": "0,15",
+      "kcal": "1,60"
+    },
+    {
+      "nome": "amendoim",
+      "carboidrato": "0,16",
+      "proteina": "0,26",
+      "gordura": "0,49",
+      "kcal": "5,67"
+    },
+    {
+      "nome": "castanha de caju",
+      "carboidrato": "0,30",
+      "proteina": "0,18",
+      "gordura": "0,44",
+      "kcal": "5,53"
+    },
+    {
+      "nome": "castanha do para",
+      "carboidrato": "0,12",
+      "proteina": "0,14",
+      "gordura": "0,66",
+      "kcal": "6,59"
+    },
+    {
+      "nome": "azeite de oliva",
+      "carboidrato": "0",
+      "proteina": "0",
+      "gordura": "1,00",
+      "kcal": "8,84"
+    },
+    {
+      "nome": "manteiga",
+      "carboidrato": "0,001",
+      "proteina": "0,009",
+      "gordura": "0,81",
+      "kcal": "7,17"
+    },
+    {
+      "nome": "margarina",
+      "carboidrato": "0",
+      "proteina": "0",
+      "gordura": "0,80",
+      "kcal": "7,20"
+    },
+    {
+      "nome": "chocolate 70%",
+      "carboidrato": "0,46",
+      "proteina": "0,078",
+      "gordura": "0,43",
+      "kcal": "5,98"
+    },
+    {
+      "nome": "sementes de chia",
+      "carboidrato": "0,42",
+      "proteina": "0,17",
+      "gordura": "0,31",
+      "kcal": "4,86"
+    },
+    {
+      "nome": "sementes de linhaca",
+      "carboidrato": "0,29",
+      "proteina": "0,18",
+      "gordura": "0,42",
+      "kcal": "5,34"
+    }
+  ]
+}
